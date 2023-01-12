@@ -1,4 +1,4 @@
-//segundo push prueba
+// push prueba
 import UIKit
 
 class Controlador: UIViewController, UITableViewDataSource, UITableViewDelegate
